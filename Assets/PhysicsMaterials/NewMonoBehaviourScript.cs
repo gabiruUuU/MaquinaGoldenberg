@@ -1,2 +1,0 @@
-Desconsidere as coisas que já estão corretas, foque apenas nos dois problemas que eu estou lhe mostrando e como resolve-los, pode desconsiderar as imagens anteriores que eu mandei, pois seus propósitos já foram concluidos.
-O que eu quis dizer é que a esferaB está "pingando" quando o blocoA escosta nela (um leve pulo no eixoY) e quando ela encosta no blocoC (um pulo consideravel no eixoY)
